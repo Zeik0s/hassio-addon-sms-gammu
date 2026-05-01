@@ -1,7 +1,6 @@
 {
-  "name": "Oscar Calvo Add-ons",
-  "url": "https://github.com/HomeOps/home-assistant-addons-gammu",
-  "maintainer": "Oscar Calvo oscar@calvonet.com",
-  "logo": "https://raw.githubusercontent.com/HomeOps/hassio-addons/main/logo.png"
+  "name": "Zeik0s Add-ons",
+  "url": "https://github.com/Zeik0s/hassio-addon-sms-gammu",
+  "maintainer": "Zeik0s zeik0s@localhost"
 }
 
